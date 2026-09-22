@@ -1,4 +1,4 @@
-//Crie um programa que some dois numeros
+//Crie um programa que multiplique dois numeros
 
 #include <iostream>
 #include <stdio.h>
