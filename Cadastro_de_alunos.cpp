@@ -36,7 +36,8 @@ int main(){
 
   
   aluno* Turma = new aluno[N];  // aqui estou criando um ponteiro chamado "Turma",
-// que é um espaço na memória (variável) que aponta para o espaço de memória que está o primeiro elemento do vetor criado pelo new, e o new aluno[N] reserva o espaço do vetor com N elementos do tipo "aluno".
+// que é um espaço na memória (variável) que aponta para o espaço de memória que está o primeiro elemento do vetor criado pelo new,
+//  e o new aluno[N] reserva o espaço do vetor com N elementos do tipo "aluno".
 
 
   float soma_media = 0;
