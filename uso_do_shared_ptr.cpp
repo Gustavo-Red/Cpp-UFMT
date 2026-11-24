@@ -8,7 +8,7 @@ int main(){
   cout << "Valor apontado por a: " << *a << endl;
   cout << "Endereço guardado em a: " << a << endl;
   cout << "Valor apontado por b: " << *b << endl;
-  cout << "Endereço guardado em b:" << b << endl;
+  cout << "Endereço guardado em b: " << b << endl;
   // usando o .use_count() para saber quantos ponteiros estão apontando para aquele espaço de memória.
   cout << "use_count: " << a.use_count() << endl;
   cout << "antes do bloco: " << a.use_count() << endl;
